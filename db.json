@@ -2,12 +2,12 @@
   {
     "name": "Đẹp",
     "email": "dan@gmail.com",
-    "status": false
+    "status": true
   },
   {
     "name": "Trai",
     "email": "dan@gmail.com",
-    "status": true
+    "status": false
   },
   {
     "name": "Vô",
